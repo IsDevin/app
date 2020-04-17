@@ -1,0 +1,16 @@
+
+.card-wrapper.data-v-538844ed {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	font-weight: bold;
+	padding: 20rpx 0;
+}
+.text.data-v-538844ed {
+	margin: 0 20rpx;
+	font-size: 32rpx;
+}
+

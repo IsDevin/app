@@ -1,0 +1,15 @@
+
+.top-bar.data-v-34f23868 {
+	width: 100%;
+	height: 88rpx;
+	white-space: nowrap;
+}
+.top-bar-item.data-v-34f23868 {
+	display: inline-block;
+	font-size: 36rpx;
+	padding: 10rpx 20rpx;
+}
+.f-active-color.data-v-34f23868 {
+	border-bottom: 6rpx solid #49BDFB;
+}
+

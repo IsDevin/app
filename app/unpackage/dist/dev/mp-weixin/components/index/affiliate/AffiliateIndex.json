@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "banner": "/components/index/affiliate/Banner",
+    "icons-list": "/components/index/affiliate/Icons",
+    "hot": "/components/index/affiliate/Hot",
+    "card": "/components/common/Card",
+    "slider-content": "/components/index/affiliate/SliderContent",
+    "commodity": "/components/common/Commodity"
+  }
+}
